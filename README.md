@@ -2,5 +2,6 @@
 
 ## Características:<br>
 - Possui somente dois níveis de menu<br>
-- Utiliza switch para as opções<br>
+- Utiliza while para a repetição das opções<br>
+- Utiliza switch para a escolha das opções<br>
 - Os submenus do 2 nível estão em subrotinas<br>
